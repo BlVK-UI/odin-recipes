@@ -6,8 +6,9 @@ It's a simple recipe website with a home page linking to individual recipe pages
 
 ## Recipes included
 
-- Puff puff
+- Samosa
 - Jollof Rice
+- Egusi soup
 
 ## What I practiced
 
