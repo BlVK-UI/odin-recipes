@@ -6,8 +6,8 @@ It's a simple recipe website with a home page linking to individual recipe pages
 
 ## Recipes included
 
-- Pasta
-- Pancakes
+- Puff puff
+- Jollof Rice
 
 ## What I practiced
 
